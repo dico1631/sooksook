@@ -1,5 +1,5 @@
 # sooksook
-> application helping to growing plants by using sensor(moisture, sunlight, temperature
+> application helping to growing plants by using sensor(moisture, sunlight, temperature)
 
 ![최종발표 (0)](https://user-images.githubusercontent.com/58927491/93152889-db70fb80-f73a-11ea-9ca8-3044129d46ec.jpg)
 ![최종발표 (1)](https://user-images.githubusercontent.com/58927491/93152892-dca22880-f73a-11ea-9f90-6af06ee17fc3.jpg)
